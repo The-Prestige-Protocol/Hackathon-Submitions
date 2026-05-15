@@ -1,4 +1,6 @@
 # 📦 KhatKhat: Futuristic P2P Logistics Intelligence
+Github link : https://github.com/yashbavkar26/KhatKhat.git
+Video demo link: https://drive.google.com/drive/folders/1917WBvnpLAsqiX_8jTwZYgJfpqREJLcH?usp=sharing
 
 **KhatKhat** is a decentralized, peer-to-peer (P2P) logistics platform designed to revolutionize hyper-local deliveries through a dynamic relay network. By leveraging existing human movement patterns, KhatKhat enables lightning-fast, cost-effective, and secure deliveries across urban landscapes.
 
